@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Vitrin</string>
+    <string name="cart_detail">CART DETAIL</string>
+    <string name="clear_all">Clear All</string>
+    <string name="complete_order">COMPLETE ORDER</string>
+    <string name="multiplier">X</string>
+    <string name="back_to_vitrin">BACK TO VITRIN</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="delete_all_orders">Are you sure you want to delete all orders?</string>
+    <string name="complete_order_question">"Are you sure you want to complete order?</string>
+    <string name="cart_clean">Your cart is as clean as the first day.</string>
+    <string name="sent_order">Your order has been successfully completed. :)</string>
+    <string name="failed_order">Something went wrong. :(</string>
+    <string name="sending_order">Your order is being completed, please wait.</string>
+</resources>
